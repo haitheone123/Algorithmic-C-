@@ -24,7 +24,7 @@ void nhapMang(int n) {
 }
 int main() {
     int n;
-    cout << " Nhap vao so cac so cua phan tu " << endl;
+    cout << " Nhap vao so cac so cua phan tu - hello world " << endl;
     cin >> n;
     nhapMang(n);
     showlist(danhSachDiem);
