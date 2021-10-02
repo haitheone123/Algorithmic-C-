@@ -1,0 +1,7 @@
+﻿  Phan tich so n (6).cpp
+C:\Users\ndmin\source\repos\Phan tich so n (6)\Phan tich so n (6).cpp(17,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\ndmin\source\repos\Phan tich so n (6)\Phan tich so n (6).cpp(50,24): error C2065: 'm': undeclared identifier
+C:\Users\ndmin\source\repos\Phan tich so n (6)\Phan tich so n (6).cpp(50,26): error C2146: syntax error: missing ')' before identifier 'sptkq'
+C:\Users\ndmin\source\repos\Phan tich so n (6)\Phan tich so n (6).cpp(50,26): error C2146: syntax error: missing ';' before identifier 'sptkq'
+C:\Users\ndmin\source\repos\Phan tich so n (6)\Phan tich so n (6).cpp(50,31): error C2059: syntax error: ')'
+C:\Users\ndmin\source\repos\Phan tich so n (6)\Phan tich so n (6).cpp(51,2): warning C4551: function call missing argument list

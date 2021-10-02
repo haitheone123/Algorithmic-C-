@@ -1,0 +1,3 @@
+﻿  Hello World.cpp
+C:\Users\ndmin\source\repos\Hello World\Hello World.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Hello World.vcxproj -> C:\Users\ndmin\source\repos\Hello World\Debug\Hello World.exe

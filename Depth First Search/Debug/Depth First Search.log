@@ -1,0 +1,6 @@
+﻿  Depth First Search.cpp
+C:\Users\ndmin\source\repos\Depth First Search\Depth First Search.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ndmin\source\repos\Depth First Search\Depth First Search.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ndmin\source\repos\Depth First Search\Depth First Search.cpp(16): error C4716: 'Init': must return a value
+C:\Users\ndmin\source\repos\Depth First Search\Depth First Search.cpp(47): warning C4715: 'DFS_use_Stack': not all control paths return a value
+C:\Users\ndmin\source\repos\Depth First Search\Depth First Search.cpp(27): warning C4715: 'DFS_Recurse': not all control paths return a value
