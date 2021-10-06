@@ -1,0 +1,7 @@
+﻿  Con tro tong quat 2.cpp
+C:\Users\ndmin\source\repos\Con tro tong quat 2\Con tro tong quat 2.cpp(29,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ndmin\source\repos\Con tro tong quat 2\Con tro tong quat 2.cpp(30,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ndmin\source\repos\Con tro tong quat 2\Con tro tong quat 2.cpp(31,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ndmin\source\repos\Con tro tong quat 2\Con tro tong quat 2.cpp(32,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ndmin\source\repos\Con tro tong quat 2\Con tro tong quat 2.cpp(33,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  Con tro tong quat 2.vcxproj -> C:\Users\ndmin\source\repos\Con tro tong quat 2\Debug\Con tro tong quat 2.exe

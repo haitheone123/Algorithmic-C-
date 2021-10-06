@@ -1,0 +1,6 @@
+﻿  Tong quan ve structs.cpp
+C:\Users\ndmin\source\repos\Tong quan ve structs\Tong quan ve structs.cpp(54,14): warning C4101: 's2': unreferenced local variable
+C:\Users\ndmin\source\repos\Tong quan ve structs\Tong quan ve structs.cpp(56,10): warning C4101: 'arr': unreferenced local variable
+C:\Users\ndmin\source\repos\Tong quan ve structs\Tong quan ve structs.cpp(57,10): warning C4101: 'bArr': unreferenced local variable
+C:\Users\ndmin\source\repos\Tong quan ve structs\Tong quan ve structs.cpp(55,11): warning C4101: 'sPtr': unreferenced local variable
+  Tong quan ve structs.vcxproj -> C:\Users\ndmin\source\repos\Tong quan ve structs\Debug\Tong quan ve structs.exe

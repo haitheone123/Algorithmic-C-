@@ -1,0 +1,10 @@
+﻿  Tong quan ve class.cpp
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(13,18): error C4596: '{ctor}': illegal qualified name in member declaration
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(21,11): error C4596: '{ctor}': illegal qualified name in member declaration
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(21,31): error C2059: syntax error: '{'
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(21,31): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(56,17): error C2664: 'Student::Student(const Student &)': cannot convert argument 1 from 'char *' to 'const Student &'
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(56,17): message : Reason: cannot convert from 'char *' to 'const Student'
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(56,17): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(50,1): message : see declaration of 'Student::Student'
+C:\Users\ndmin\source\repos\Tong quan ve class\Tong quan ve class.cpp(58,15): error C3867: 'Student::showIdCard': non-standard syntax; use '&' to create a pointer to member
