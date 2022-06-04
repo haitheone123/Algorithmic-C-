@@ -1,0 +1,3 @@
+Cake: noi them truong hop duong thang ko cat banh
+Hanging certificates: Test 6 n = 10000
+Number of unique characters: Cong thuc 1 <= i <= |S|, i <= j <= |S| 
